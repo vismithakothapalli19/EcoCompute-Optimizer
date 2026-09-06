@@ -1,0 +1,7 @@
+{
+  "name": "EcoCompute Dispatcher",
+  "description": "Intelligent carbon-aware computing scheduler optimizing when, where, and how workloads run to minimize environmental impact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
